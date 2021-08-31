@@ -1,9 +1,11 @@
-[![Cours 1](https://img.shields.io/badge/Cours_1-En_ligne-green.svg)](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2020/1-introduction)
-[![Cours 2](https://img.shields.io/badge/Cours_2-En_ligne-green.svg)](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2020/2-debug_profile_benchmark)
-[![Cours 3](https://img.shields.io/badge/Cours_3-En_ligne-green.svg)](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2020/3-performance)
-[![Cours 4](https://img.shields.io/badge/Cours_4-En_ligne-green.svg)](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2020/4-oop)
-[![Cours 5](https://img.shields.io/badge/Cours_5-En_ligne-green.svg)](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2020/5-programmation_concurrente)
-[![Cours 6](https://img.shields.io/badge/Cours_6-En_ligne-green.svg)](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2020/6-packaging)
+[![Cours 1](https://img.shields.io/badge/Cours%201-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 2](https://img.shields.io/badge/Cours%202-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 6](https://img.shields.io/badge/Cours%206-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 7](https://img.shields.io/badge/Cours%207-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 8](https://img.shields.io/badge/Cours%208-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 
 # MAT8186: Techniques avancées en programmation statistiques R
 ## Bienvenue!
@@ -16,61 +18,65 @@ votre cours. Vous y trouverez:
 Veuillez noter que nous n'utiliserons *pas* Moodle pour ce cours; *le
 dépôt contiendra donc l'ensemble du matériel nécessaire*.
 
-## Informations.
-* Lien Zoom pour le cours: https://uqam.zoom.us/j/93180864930
-* Horaire: de 10h30 à 12h30 le
-  * lundi: 14 et 28 septembre, 12 et 26 octobre.
-  * mercredi: 16 et 30 septembre, 14 et 28 octobre.
+## Informations
+* [Horaire](https://etudier.uqam.ca/cours?sigle=MAT8186): de 10h00 à 12h00 le
+  * mercredi: 8, 15, 22 et 29 septembre
+  * lundi: 13, 20 et 27 septembre, 4 octobre
+* [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S1545
+   * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si vous préférez.
 
-## Enregistrements.
-* [Cours 1](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=429abe0a-5e48-4357-b778-ac36013ee65d)
-* [Cours 2](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=f2f8c177-41a2-4dc2-a630-ac38011f274f)
-* [Cours 3](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=bd8c850e-5a6a-4f60-91f0-ac44012caf89)
-* [Cours 4](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=25a17132-d2f4-43e5-a904-ac46011d9082)
-* [Séance d'aide -- devoir 2](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=b7857f91-0d17-4bdf-ba1c-ac4d0110e169)
-* [Cours 5](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=b1583965-2239-4962-a26f-ac54015021d8)
-* [Cours 6](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=040aa79b-1b2e-4312-9d82-ac5b01222914)
-* [Cours 7](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=17fad16a-0089-4189-80bd-ac60012f653b)
-* [Cours 8](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=218f1332-1920-4c90-b603-ac62016c3d51)
-* [Séance d'aide 1 -- devoir 4](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=5e0b7916-4252-43e2-8fc0-ac7101436cdf)
-* [Séance d'aide 2 -- devoir 4](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=bd4541f4-e3d8-4e11-b7f8-ac75011eb307)
+## Devoirs
+À venir :cold_sweat:
 
-## Devoirs.
-* [Devoir 1](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir1/devoir.pdf)
-    * [Solution au devoir 1](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir1/solution.ipynb)
-* [Devoir 2](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir2/devoir.ipynb)
-    * [Solution au devoir 2](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir2/solution.ipynb)
-* [Devoir 3](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir3/devoir.ipynb)
-    * [Solution au devoir 3](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir3/solution.ipynb)
-* [Devoir 4](https://github.com/cours-patrickFournier/mat8186-r-avance/blob/automne2020/devoir4/devoir.ipynb)
-
-## Coordonnées.
+## Coordonnées
 Vous pouvez me joindre:
 * par e-mail: fournier.patrick@uqam.ca
+* Zoom: https://uqam.zoom.us/my/patrick.fournier
 * en personne: PK-5323.
 
-Étant donné la pandémie, privilégiez les communication par e-mail ou
-Zoom. Nous ne nous rencontrerons en personne que si nécessaire.
+Vous ne devriez *pas* me contacter directement pour poser une question d'intérêt
+général (exemple: "comment fait-on `xyz`dans R"). Pour ce type de questions,
+utilisez plutôt le [forum du
+cours](https://github.com/orgs/cours-patrickFournier/teams/automne-2021/discussions).
+Tel que discuté, des points seront offerts pour toute réponse (correcte) que
+vous fournirez à une question du forum.
 
-## Bilbiographie.
-La bibliographie du cours est disponible sur Mendeley:
-https://www.mendeley.com/community/mat8186-techniques-avancees-en-programmation-statistiques-r/
-Elle est en construction permanente, des documents pourraient y être ajouté
-au courant de la session.
+## Références
+Références principales:
+* [Advanced R (Hadley Wickham)](https://adv-r.hadley.nz/)
+* [Writing R Extensions (R Core Team)](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
+* [R FAQ (Kurt Hornik)](https://cran.r-project.org/doc/FAQ/R-FAQ.html)
+* [Git Reference (Scott Chacon et contributeurs du dépôt git-scm.com)](https://git-scm.com/docs)
+
+Autres références disponibles sur demande.
 
 ## Logiciels à installer.
 Les logiciels suivants sont nécessaires pour le cours.
-* R version >= 4.0 (https://cran.r-project.org/).
-* RStudio version >= 1.3 (https://www.rstudio.com/products/rstudio/).
-* Git version >= 2.28 (https://git-scm.com/).
+* [R (>= 4.1.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
+* [Git (>= 2.33.0)](https://git-scm.com/downloads)
 
-Si vous possédez déjà ces logiciels, je vous suggère de profiter du
-début de la session pour vous assurer qu'ils sont bien à jour.
+*Si vous utilisez Windows*, vous devez installer [Git for Windows](https://gitforwindows.org/)
+
+Si vous possédez déjà ces logiciels, profitez du début de la session pour vous
+assurer qu'ils sont bien à jour.
+
+### IDE
+Étant donné sa grande popularité, il existe une multitude d'environement
+permettant de faciliter le développement sous R. Libre à vous d'utiliser celui
+qui vous plaît (ou de ne pas en utiliser du tout). Personnellement, je
+recommande les suivants:
+* [R Studio](https://www.rstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+   * [Extension R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r)
+
+### Git graphique
+De la même manière, il existe une panoplie de logiciels offrant une interface
+graphique à Git parmis lesquels R Studio et Visual Studio Code. Dans le cours, je ferai les manipulations à partir du terminal. Toutefois, je vous encourage à essayer d'autres interfaces si vous êtes curieux.
 
 ## Packages R à installer.
-Les packages ci-dessous sont nécessaires à l'exécution des scripts R
-présents sur ce dépôt. Ils sont tous disponibles sur CRAN et peuvent
-donc être installés par un simple appel à `install.packages`.
+Les packages ci-dessous sont nécessaires à l'exécution des scripts R présents
+sur ce dépôt. Ils sont tous disponibles sur CRAN et peuvent donc être installés
+par un simple appel à `install.packages`.
 * devtools
 * doParallel
 * foreach
@@ -81,23 +87,19 @@ donc être installés par un simple appel à `install.packages`.
 * roxygen2
 * testthat
 
-Si vous possédez déjà ces packages, je vous suggère de profiter du
-début de la session pour vous assurer qu'ils sont à jour. Pour ce
-faire, à l'intérieur d'une session R, appellez
+Si vous possédez déjà ces packages, profitez du début de la session pour vous
+assurer qu'ils sont à jour. Pour ce faire, à l'intérieur d'une session R,
+appellez
 
 ``` R
 update.packages(ask = FALSE)
 ```
 
 ## Comment utiliser ce dépôt.
-La bonne utilisation de git et, dans une moindre mesure, GitHub, fait
-partie intégrante du cours. Git est à la base un outil en ligne de
-commande possédant une quantité impressionnante de
-fonctionnalité. Malheureusement, cela le rend relativement difficile à
-maîtriser. Toutefois, RStudio fourni une interface simplifiée aux
-fonctionnalités de git auxquelles nous ferrons appel. Cette section
-vous liste les étapes nécessaires à la bonne utilisation du dépôt pour
-le cours.
+La bonne utilisation de git et, dans une moindre mesure, GitHub, fait partie
+intégrante du cours. Git est à la base un outil en ligne de commande possédant
+une quantité impressionnante de fonctionnalité. Cette section vous liste les
+étapes nécessaires à la bonne utilisation du dépôt pour le cours.
 
 À la fin de cette section, vous aurez
 1. une copie locale du dépôt qui sera en mesure de recevoir les
@@ -109,13 +111,21 @@ le cours.
 ### Créez votre compte GitHub.
 Le processus est standard, vous devriez facilement y arriver.
 
+### Générez une clé SSH
+Suivez la procédure détaillée
+[ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent),
+sections "Generating a new SSH key" et "Adding your SSH key to the ssh-agent".
+
+### Ajoutez votre clé à votre compte GitHub
+Suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+
 ### Surveillez le dépôt.
 Cette étape n'est pas nécessaire mais je vous recommande de surveiller
 ce dépôt. Vous serez ainsi averti des modifications lui étant
 apportés. Pour ce faire,
 1. Cliquez sur le bouton `Watch` au coin supérieur droit de cette page;
    un menu déroulant apparaîtra.
-2. Cliquez sur `Watching`.
+2. Cliquez sur `All Activity`.
 
 ![Screenshot, watch repo](readme_pictures/watch_repo.png)
 
@@ -135,8 +145,24 @@ Cette étape a pour but de créer votre propre copie personnelle du
 dépôt. Pour la suite du cours, *vous allez travailler exclusivement dans
 cette copie*.
 
-La procédure permettant de dupliquer le dépôt est décrite en détail
-[ici](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository).
+1. Clonez mon dépôt:
+```bash
+git clone --origin upstream https://github.com/cours-patrickFournier/mat8186-r-avance.git
+cd mat8186-r-avance
+```
+2. Ajoutez votre dépôt GitHub comme remote:
+```bash
+git remote add origin git@github.com:<nom d'utilisateur>/<nom du dépôt>.git
+```
+
+3. Poussez vers votre dépôt:
+```bash
+git push --set-upstream origin automne2021
+```
+
+L'ensemble de la procédure devrait ressembler à ceci:
+[![Duplicate repo](readme_pictures/duplicating_repo.svg)](https://asciinema.org/a/433370)
+
 
 Une fois cela fait, donnez-moi accès à votre dépôt en m'ajoutant comme
 collaborateur.
@@ -146,65 +172,13 @@ de *votre dépôt*.
 
 ![Screenshot, settings](readme_pictures/private_settings.png)
 
-2. Cliquez sur `Collaborators` à gauche.
+2. Cliquez sur `Manage access` à gauche.
 
 ![Screenshot, collaborators](readme_pictures/private_collaborator.png)
 
-5. Cherchez mon nom d'utilisateur (ps-pat) et ajoutez-moi comme collaborateur.
+3. Cherchez mon nom d'utilisateur (ps-pat) et ajoutez-moi comme collaborateur.
 
 ![Screenshot, settings](readme_pictures/private_addCollaborator.png)
-
-### Créez un dépôt local.
-Bien qu'il soit possible de travailler directement sur votre dépôt
-GitHub, cela n'est pas très pratique. La meilleure façon de procéder
-est de créer un troisième dépôt localisé sur votre ordinateur. Cela
-se fait aisément à l'aide de RStudio.
-1. Ouvrez RStudio.
-2. Sous le menu `File`, cliquez sur `New Project`.
-3. Dans la boîte de dialogue, cliquez sur `Version Control`.
-
-![Screenshot, new project](readme_pictures/local_repo1.png)
-
-4. Dans l'écran suivant, choisissez `Git`.
-
-![Screenshot, new project git](readme_pictures/local_repo2.png)
-
-5. Dans l'écran suivant, inscrivez l'URL de *mon dépôt*:
-   https://github.com/cours-patrickFournier/mat8186-r-avance.git. Celui-ci
-   vous est donné lorsque vous cliquez sur le bouton `Code` au coin
-   supérieur droit de la page de mon dépôt.
-
-![Screenshot, new project git](readme_pictures/local_repo3.png)
-
-6. Cliquez sur `Create Project`.
-
-### Ajustement des remotes.
-Félicitation, vous disposez maintenant d'une copie locale de votre
-dépôt! Toutefois, vous n'êtes pas tout à fait au bout de vos peines;
-il reste un problème à régler. À ce stade, vous êtes capable
-d'intégrer les changements que j'apporte à mon dépôt au
-votre. Toutefois, il vous reste à configurer git de manière à ce que
-vos modifications locales soient envoyées à votre dépôt. Pour ce faire,
-
-1. Assurez-vous que RStudio soit bien ouvert à votre projet (coin
-   supérieur droit) et que vous travailliez bien sur la branche
-   «automne2020».
-
-2. Dans le panneau supérieur droit, cliquez sur l'onglet `Git`. Cliquez
-   sur le petit icône en forme d'engrenage dans la boîte d'outil puis
-   sur `Shell...`.
-
-![Screenshot, RStudio git open shell](readme_pictures/remotes3.png)
-
-4. Dans la fenêtre qui vient de s'ouvrir, tapez la commande suivante
-   (suivi de `enter`):
-
-``` Shell
-git config remote.origin.pushurl <URL de votre dépôt>
-```
-Vous pouvez trouver l'URL de votre dépôt en cliquant sur le bouton `Code`
-situé au haut de la page de votre dépôt. Félicitation, vous êtes
-maintenant prêt à suivre le cours!
 
 ### Triangular workflow.
 Retournez voir le schéma du début de la section. Remarquez que vous
@@ -235,18 +209,10 @@ vous assurer que vos changements locaux ont été commis (voir section
 suivante). Dans le cas contraire, vous aurez droit à un message
 d'erreur de la part de git.*
 
-Voici la marche à suivre pour procéder à un `git pull` à partir de
-RStudio.
-1. Sous l'onglet `Git`, dans la barre d'outils, cliquez sur
-   `Pull`.
-
-![Screenshot, pull button RStudio](readme_pictures/pull_button.png)
-
-2. Si nécessaire, authentifiez-vous.
-3. Une nouvelle fenêtre devrait s'ouvrir et donner une sortie
-   semblable à celle illustrée ci-dessous.
-
-![Screenshot, pull output RStudio](readme_pictures/pull_output.png)
+Dans le cadre du cours, vous aller presque toujours vouloir intégrer les changements apportés à mon dépôt au vôtre. Pour ce faire, utilisez la commande:
+```bash
+git pull upstream automne2021
+``` 
 
 #### `git commit`: commettre vos modifications locales.
 Cette opération est *toujours* préalable à la troisième opération,
@@ -259,43 +225,27 @@ apportés à votre dépôt local vers votre dépôt distant. La *seule*
 manière de modifier le dépôt distant est de lui intégrer une sorte de
 «photo» d'un changement ou d'un ensemble de changements locaux. Dans
 le jargon de Git, ces photos sont appelées commits et sont générés par
-la commande `git commit`. Voici comment procéder à partir de RStudio.
-1. Sous l'onglet `Git`, dans la barre d'outils, cliquez sur le bouton
-   `Commit`.
-
-![Screenshot, commit button](readme_pictures/commit_toolbox.png)
-
-2. Dans la nouvelle fenêtre, cochez les cases de la colonne `Staged`
-   correspondant aux fichiers que vous souhaitez inclure dans votre
-   commit. La colonne `Status` correspondante devrait afficher `A`
-   (pour added).
-
-![Screenshot, add to commit](readme_pictures/commit_tickbox.png)
-
-3. Tapez une *courte* description dans la boîte `Commit message`.
-
-4. Cliquez sur `Commit`.
-
-![Screenshot, commit message](readme_pictures/commit_message.png)
-
-5. Une nouvelle fenêtre devrait s'ouvrir et donner une sortie
-   semblable à celle illustrée ci-dessous.
-
-![Screenshot, commit output](readme_pictures/commit_output.png)
+la commande `git commit`. Pour faire un commit, il faut tout d'abord préciser les fichiers que l'on souhaite inclure:
+```bash
+git add fichier1 fichier2 ...
+```
+On peut ensuite construire le commit comme tel en n'oubliant pas de l'accompagner d'un message court et pertinent:
+```bash
+git commit -m "Mon message court et pertinent."
+``` 
 
 #### `git push`: envoyer vos commit vers votre dépôt distant.
 Le `push` est l'opération qui consiste à envoyer vos commits vers
 votre dépôt distant. Elle correspond à la flèche 2 dans le schéma du
-début de la section. Pour la réaliser, sous l'onglet `Git`, dans la
-barre d'outils, cliquez simplement sur `Push` et authentifiez-vous si
-nécessaire.
+début de la section. Il suffit d'entrer la commande:
+```bash
+git push
+```
 
-![Screenshot, push button](readme_pictures/push_button.png)
-
-Une nouvelle fenêtre devrait s'ouvrir et donner une sortie semblable à
-celle illustrée ci-dessous.
-
-![Screenshot, push output](readme_pictures/push_output.png)
+Si vous obtenez un message d'erreur, assurez-vous de pousser vers le bon remote:
+```bash
+git push --set-upstream origin automne2021
+```
 
 ## Pour en savoir plus.
 Git est un logiciel immensément populaire pour lequel il existe une
