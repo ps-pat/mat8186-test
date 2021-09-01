@@ -61,7 +61,7 @@ Si vous possédez déjà ces logiciels, profitez du début de la session pour vo
 assurer qu'ils sont bien à jour.
 
 ### IDE
-Étant donné sa grande popularité, il existe une multitude d'environement
+Étant donné sa grande popularité, il existe une multitude d'environements
 permettant de faciliter le développement sous R. Libre à vous d'utiliser celui
 qui vous plaît (ou de ne pas en utiliser du tout). Personnellement, je
 recommande les suivants:
@@ -71,7 +71,7 @@ recommande les suivants:
 
 ### Git graphique
 De la même manière, il existe une panoplie de logiciels offrant une interface
-graphique à Git parmis lesquels R Studio et Visual Studio Code. Dans le cours, je ferai les manipulations à partir du terminal. Toutefois, je vous encourage à essayer d'autres interfaces si vous êtes curieux.
+graphique à Git parmi lesquels R Studio et Visual Studio Code. Dans le cours, je ferai les manipulations à partir du terminal. Toutefois, je vous encourage à essayer d'autres interfaces si vous êtes curieux.
 
 ## Packages R à installer
 Les packages ci-dessous sont nécessaires à l'exécution des scripts R présents
@@ -130,12 +130,12 @@ apportés. Pour ce faire,
 ![Screenshot, watch repo](readme_pictures/watch_repo.png)
 
 ### Créez un nouveau dépôt privé
-Su la page principale de votre compte, cliquez sur le bouton
+Sur la page principale de votre compte, cliquez sur le bouton
 «Create repository».
 
 ![Screenshot, create repo](readme_pictures/create_repo.png)
 
-Par la suite, donnez un nom et décrivez votre nouveau dépôt. Noubliez pas
+Par la suite, donnez un nom et décrivez votre nouveau dépôt. N'oubliez pas
 de le rendre privé!
 
 ![Screenshot, create_repo2](readme_pictures/create_repo2.png)
