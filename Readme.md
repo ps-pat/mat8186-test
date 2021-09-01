@@ -50,7 +50,7 @@ Références principales:
 
 Autres références disponibles sur demande.
 
-## Logiciels à installer.
+## Logiciels à installer
 Les logiciels suivants sont nécessaires pour le cours.
 * [R (>= 4.1.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
 * [Git (>= 2.33.0)](https://git-scm.com/downloads)
@@ -73,7 +73,7 @@ recommande les suivants:
 De la même manière, il existe une panoplie de logiciels offrant une interface
 graphique à Git parmis lesquels R Studio et Visual Studio Code. Dans le cours, je ferai les manipulations à partir du terminal. Toutefois, je vous encourage à essayer d'autres interfaces si vous êtes curieux.
 
-## Packages R à installer.
+## Packages R à installer
 Les packages ci-dessous sont nécessaires à l'exécution des scripts R présents
 sur ce dépôt. Ils sont tous disponibles sur CRAN et peuvent donc être installés
 par un simple appel à `install.packages`.
@@ -95,7 +95,7 @@ appellez
 update.packages(ask = FALSE)
 ```
 
-## Comment utiliser ce dépôt.
+## Comment utiliser ce dépôt
 La bonne utilisation de git et, dans une moindre mesure, GitHub, fait partie
 intégrante du cours. Git est à la base un outil en ligne de commande possédant
 une quantité impressionnante de fonctionnalité. Cette section vous liste les
@@ -108,7 +108,7 @@ une quantité impressionnante de fonctionnalité. Cette section vous liste les
 
 ![Schema git](readme_pictures/schema_git.png)
 
-### Créez votre compte GitHub.
+### Créez votre compte GitHub
 Le processus est standard, vous devriez facilement y arriver.
 
 ### Générez une clé SSH
@@ -119,7 +119,7 @@ sections "Generating a new SSH key" et "Adding your SSH key to the ssh-agent".
 ### Ajoutez votre clé à votre compte GitHub
 Suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-### Surveillez le dépôt.
+### Surveillez le dépôt
 Cette étape n'est pas nécessaire mais je vous recommande de surveiller
 ce dépôt. Vous serez ainsi averti des modifications lui étant
 apportés. Pour ce faire,
@@ -140,7 +140,7 @@ de le rendre privé!
 
 ![Screenshot, create_repo2](readme_pictures/create_repo2.png)
 
-### Dupliquez le dépôt.
+### Dupliquez le dépôt
 Cette étape a pour but de créer votre propre copie personnelle du
 dépôt. Pour la suite du cours, *vous allez travailler exclusivement dans
 cette copie*.
@@ -180,7 +180,7 @@ de *votre dépôt*.
 
 ![Screenshot, settings](readme_pictures/private_addCollaborator.png)
 
-### Triangular workflow.
+### Triangular workflow
 Retournez voir le schéma du début de la section. Remarquez que vous
 intégrez les changements d'un dépôt ne vous appartenant pas tandis que
 vous modifiez un dépôt vous appartenant. Cette utilisation asymétrique
@@ -188,7 +188,7 @@ de Git est connue sous le nom de Triangular workflow. Sachez que si
 l'envie vous prenait de contribuer à un projet libre ou open source un
 jour, il s'agit généralement du workflow employé.
 
-### Interagir avec les différents dépôts.
+### Interagir avec les différents dépôts
 Tout au long du cours, vous aurez besoin d'accomplir trois opérations de base:
 * Pull
 * Commit
@@ -197,7 +197,7 @@ Tout au long du cours, vous aurez besoin d'accomplir trois opérations de base:
 Il est possible d'effectuer ces trois opérations directement à partir
 de RStudio.
 
-#### `git pull`: incorporer les changements les plus récents.
+#### `git pull`: incorporer les changements les plus récents
 La première opération à maîtriser est connue sous le nom de `git
 pull`. Elle correspond à la flèche 1 sur le schéma du début de la
 section. En réalité, elle accomplit deux tâches:
@@ -214,7 +214,7 @@ Dans le cadre du cours, vous aller presque toujours vouloir intégrer les change
 git pull upstream automne2021
 ``` 
 
-#### `git commit`: commettre vos modifications locales.
+#### `git commit`: commettre vos modifications locales
 Cette opération est *toujours* préalable à la troisième opération,
 `git push`. Conceptuellement, elle est quelque peu
 abstraite. Toutefois, elle est relativement facile à réaliser en
@@ -234,7 +234,7 @@ On peut ensuite construire le commit comme tel en n'oubliant pas de l'accompagne
 git commit -m "Mon message court et pertinent."
 ``` 
 
-#### `git push`: envoyer vos commit vers votre dépôt distant.
+#### `git push`: envoyer vos commit vers votre dépôt distant
 Le `push` est l'opération qui consiste à envoyer vos commits vers
 votre dépôt distant. Elle correspond à la flèche 2 dans le schéma du
 début de la section. Il suffit d'entrer la commande:
@@ -247,7 +247,7 @@ Si vous obtenez un message d'erreur, assurez-vous de pousser vers le bon remote:
 git push --set-upstream origin automne2021
 ```
 
-## Pour en savoir plus.
+## Pour en savoir plus
 Git est un logiciel immensément populaire pour lequel il existe une
 quantité impressionnante de documentation et tutoriels. Si vous
 rencontrez un problème ou que vous souhaitez en apprendre davantage,
