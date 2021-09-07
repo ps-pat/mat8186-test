@@ -208,6 +208,11 @@ div.input_area,
     margin-right: 0;
 }
 
+.CodeMirror-cursor,
+.CodeMirror div.CodeMirror-secondarycursor {
+  border-color: #ffe0b2;
+}
+
 .rise-enabled .prompt,
 .rise-enabled .reveal pre {
     font-size: 1em;
@@ -266,4 +271,9 @@ span.cm-operator.cm-arrow,
 /* Cell */
 div.text_cell_render {
     padding: 0em;
+}
+
+/* MathJax */
+.MathJax nobr {
+    white-space: normal !important;
 }
