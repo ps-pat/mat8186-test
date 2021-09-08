@@ -1,4 +1,4 @@
-[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://hub.gke2.mybinder.org/user/cours-patrickfo-at8186-r-avance-48sgr30i/notebooks/1-introduction/index.ipynb#/slide-0-0)
+[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/automne2021)
 [![Cours 2](https://img.shields.io/badge/Cours%202-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
