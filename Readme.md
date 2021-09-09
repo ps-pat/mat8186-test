@@ -35,7 +35,7 @@ Vous pouvez me joindre:
 * en personne: PK-5323.
 
 Vous ne devriez *pas* me contacter directement pour poser une question d'intérêt
-général (exemple: "comment fait-on `xyz`dans R"). Pour ce type de questions,
+général (exemple: "comment fait-on `xyz` dans R"). Pour ce type de questions,
 utilisez plutôt le [forum du
 cours](https://github.com/orgs/cours-patrickFournier/teams/automne-2021/discussions).
 Tel que discuté, des points seront offerts pour toute réponse (correcte) que
