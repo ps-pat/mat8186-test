@@ -1,5 +1,5 @@
 autocor1 <- function(x) {
-    covraiance <- numeric(length(x))
+    covariance <- numeric(length(x))
     norm <- numeric(1)
 
     x <- scale(x)
