@@ -1,5 +1,5 @@
-[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/00bbb921837e55f916c0bcaab6430ecf2992b743?filepath=1-introduction%2Findex.ipynb)
-[![Cours 2](https://img.shields.io/badge/Cours%202-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://hub.gke2.mybinder.org/user/cours-patrickfo-at8186-r-avance-6uucpvn9/notebooks/1-introduction/index.ipynb)
+[![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://hub.gke2.mybinder.org/user/cours-patrickfo-at8186-r-avance-6uucpvn9/notebooks/2-Fondations/index.ipynb)
 [![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
@@ -212,7 +212,7 @@ d'erreur de la part de git.*
 Dans le cadre du cours, vous aller presque toujours vouloir intégrer les changements apportés à mon dépôt au vôtre. Pour ce faire, utilisez la commande:
 ```bash
 git pull upstream automne2021
-``` 
+```
 
 #### `git commit`: commettre vos modifications locales
 Cette opération est *toujours* préalable à la troisième opération,
@@ -232,7 +232,7 @@ git add fichier1 fichier2 ...
 On peut ensuite construire le commit comme tel en n'oubliant pas de l'accompagner d'un message court et pertinent:
 ```bash
 git commit -m "Mon message court et pertinent."
-``` 
+```
 
 #### `git push`: envoyer vos commit vers votre dépôt distant
 Le `push` est l'opération qui consiste à envoyer vos commits vers
