@@ -1,5 +1,5 @@
-[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/9ff15bd64a7dce9b0472f8e19f37b82cf12ccd36?filepath=1-introduction%2Findex.ipynb)
-[![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/9ff15bd64a7dce9b0472f8e19f37b82cf12ccd36?filepath=2-Fondations%2Findex.ipynb)
+[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/b86525c631855bed0239efbef06db38fef1cb98f?urlpath=lab%2Ftree%2F1-introduction%2Findex.ipynb)
+[![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/b86525c631855bed0239efbef06db38fef1cb98f?urlpath=lab%2Ftree%2F2-Fondations%2Findex.ipynb)
 [![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
