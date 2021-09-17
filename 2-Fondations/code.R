@@ -83,3 +83,84 @@ all.equal(t(X) %*% X, tXX)
 eigen(tXX)
 
 chol(tXX)
+
+liste_hetero <- list(42, "αβγ", TRUE, list(list(matrix(666, 2, 2))))
+liste_hetero
+
+df <- data.frame(var1 = rnorm(5), var2 = letters[1:5], var3 = sample(42:46))
+df
+
+head(iris)
+
+is.list(iris)
+
+class(liste_hetero[2])
+liste_hetero[2]
+
+class(liste_hetero[[2]])
+liste_hetero[[2]]
+
+names(iris)
+
+head(iris[["Species"]])
+
+print_yo <- function() print("Yo!")
+print_yo()
+
+is_odd <- function(x) x %% 2 > 0
+is_odd(42)
+
+(function(x) 2 * x)(21)
+
+(\(x) x / 2)(84)
+
+is_even <- Negate(is_odd)
+is_even(42)
+
+Filter(is_even, 1:10)
+
+lapply(1:10, \(x) 2 * x + 1)
+
+rand_exp <- function(n, θ = 1.0) -θ * log(runif(n))
+
+mean(rand_exp(1e4L))
+mean(rand_exp(1e4L, 10))
+
+mysum <- function(..., noise = FALSE) {
+    dat <- as.numeric(list(...))
+    
+    if (noise)
+        dat <- dat + rbeta(length(dat), 0.5, 0.5)
+    
+    sum(dat)
+}
+
+mysum(1, 2, 3, 4, 5)
+mysum(1, 2, 3, 4, 5, noise = TRUE)
+
+prod_not_42 <- function(x){
+    if (42 %in% x)
+        return(0)
+    
+    prod(x)
+}
+
+prod_not_42(1:10)
+
+prod_not_42(1:100)
+
+fact <- function(x) {
+    identical(x, 1.0) && return(x)
+    
+    x * fact(x - 1.0)
+}
+
+fact(6)
+
+## Sur ma machine, stack overflow pour x > 696.
+fact(100.0)
+
+1:100 |>
+    Filter(f = \(x) identical(x %% 3L, 0L) | identical(x %% 5L, 0L)) |>
+    sqrt() |>
+    sum()

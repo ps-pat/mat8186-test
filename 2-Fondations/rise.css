@@ -6,7 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 
 /* Colors */
-body.notebook_app.rise-enabled {
+body.notebook_app.rise-enabled,
+div.output_stderr {
     background-color: #212121;
 }
 .rise-enabled #exit_b,
@@ -109,7 +110,7 @@ html {
     font-family: "Fira Sans", sans-serif;
 }
 
-.reveal p, 
+.reveal p,
 .subtitle1,
 ul,
 ol,
@@ -118,9 +119,9 @@ ol,
     line-height: 1.4rem;
 }
 
-.reveal p, 
-ul, 
-ol, 
+.reveal p,
+ul,
+ol,
 .rise-enabled .reveal a {
     letter-spacing: 0.03125rem;
 }
@@ -171,7 +172,7 @@ caption {
 }
 
 /* Code. */
-.reveal code, 
+.reveal code,
 body,
 body.rise-enabled.theme-black div.input_prompt,
 .CodeMirror,
