@@ -91,6 +91,7 @@ body.rise-enabled.theme-black div.rendered_html {
 .subtitle1,
 .subtitle2 {
     font-family: "Roboto Condensed", sans-serif;
+    text-align: left;
 }
 
 .slide-number a span {
@@ -281,4 +282,9 @@ div.text_cell_render {
 .output_area {
     margin-left: auto;
     margin-right: auto;
+}
+
+/* MathJax */
+.MathJax nobr {
+    white-space: normal !important;
 }
