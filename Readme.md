@@ -42,6 +42,7 @@ vous fournirez à une question du forum.
 ## Références
 Références principales:
 * [Advanced R (Hadley Wickham)](https://adv-r.hadley.nz/)
+* [R Packages (Hadley Wickham)](https://r-pkgs.org/)
 * [Writing R Extensions (R Core Team)](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
 * [R FAQ (Kurt Hornik)](https://cran.r-project.org/doc/FAQ/R-FAQ.html)
 * [Git Reference (Scott Chacon et contributeurs du dépôt git-scm.com)](https://git-scm.com/docs)
