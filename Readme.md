@@ -1,8 +1,8 @@
-[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/983b1c02f73dbe0e42c196b6d3c1b75d5a085a4d?urlpath=lab%2Ftree%2F1-introduction%2Findex.ipynb)
-[![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/983b1c02f73dbe0e42c196b6d3c1b75d5a085a4d?urlpath=lab%2Ftree%2F2-Fondations%2Findex.ipynb)
-[![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/983b1c02f73dbe0e42c196b6d3c1b75d5a085a4d?urlpath=lab%2Ftree%2F3-debug_profile_benchmark%2Findex.ipynb)
-[![Cours 4](https://img.shields.io/badge/Cours%204-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/983b1c02f73dbe0e42c196b6d3c1b75d5a085a4d?urlpath=lab%2Ftree%2F4-oop%2Findex.ipynb)
-[![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/d7894af60aa6122ac27fc7ecd593220ac45ec378?urlpath=lab%2Ftree%2F1-introduction%2Findex.ipynb)
+[![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/d7894af60aa6122ac27fc7ecd593220ac45ec378?urlpath=lab%2Ftree%2F2-Fondations%2Findex.ipynb)
+[![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/d7894af60aa6122ac27fc7ecd593220ac45ec378?urlpath=lab%2Ftree%2F3-debug_profile_benchmark%2Findex.ipynb)
+[![Cours 4](https://img.shields.io/badge/Cours%204-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/d7894af60aa6122ac27fc7ecd593220ac45ec378?urlpath=lab%2Ftree%2F4-oop%2Findex.ipynb)
+[![Cours 5](https://img.shields.io/badge/Cours%205-En%20ligne-green)](https://mybinder.org/v2/gh/cours-patrickFournier/mat8186-r-avance/d7894af60aa6122ac27fc7ecd593220ac45ec378?urlpath=lab%2Ftree%2F5-packaging%2Findex.ipynb)
 # MAT8186: Techniques avancées en programmation statistiques R
 ## Bienvenue!
 Tout d'abord, je vous souhaite la bienvenue sur le dépôt GitHub de
