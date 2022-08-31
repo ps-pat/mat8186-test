@@ -1,7 +1,7 @@
-[![Cours 1](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
-[![Cours 2](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
-[![Cours 3](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
-[![Cours 4](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 1](https://img.shields.io/badge/Cours%201-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 2](https://img.shields.io/badge/Cours%202-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 
 # MAT8186: Techniques avancées en programmation statistiques R
