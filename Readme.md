@@ -1,4 +1,4 @@
-[![Cours 1](https://img.shields.io/badge/Cours%201-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours1/)
 [![Cours 2](https://img.shields.io/badge/Cours%202-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 [![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
