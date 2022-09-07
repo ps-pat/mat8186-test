@@ -55,7 +55,7 @@ Autres références disponibles sur demande.
 Les logiciels suivants sont nécessaires pour le cours.
 
 * [R (>= 4.2.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
-* [Git (>= 2.37.2)](https://git-scm.com/downloads)
+* [Git (>= 2.37.3)](https://git-scm.com/downloads)
 
 Si vous possédez déjà ces logiciels, profitez du début de la session pour vous
 assurer qu'ils sont bien à jour.
