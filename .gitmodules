@@ -1,0 +1,3 @@
+[submodule "cours1-introduction"]
+	path = cours1-introduction
+	url = git@github.com:ps-pat/mat8186-cours1.git
