@@ -23,7 +23,7 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
    * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si vous préférez.
 
 ## Devoirs
-*À venir!*
+* [Devoir 1](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir1)
 
 ## Coordonnées
 Vous pouvez me joindre:
