@@ -4,3 +4,6 @@
 [submodule "cours2-fondations"]
 	path = cours2-fondations
 	url = git@github.com:ps-pat/mat8186-cours2.git
+[submodule "cours3-debug_profile_benchmark"]
+	path = cours3-debug_profile_benchmark
+	url = ./cours3-debug_profile_benchmark
